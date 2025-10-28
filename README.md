@@ -1,0 +1,1 @@
+I've abstracted some mathematical functions I've defined relating to catmull-rom spline creation and working with irregular shapes defined from closed splines including pointInTriange / pointInTrianges to simulate pointIn (irregular shape area)
